@@ -1,0 +1,84 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "titulo": "Dragon Ball",
+            "categoria": "Action",
+            "rating": 8.0,
+            "season": "Spring",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 2,
+            "titulo": "One Piece",
+            "categoria": "Adventure",
+            "rating": 9.5,
+            "season": "Summer",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 3,
+            "titulo": "Naruto",
+            "categoria": "Action",
+            "rating": 8.7,
+            "season": "Fall",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 4,
+            "titulo": "Fullmetal Alchemist: Brotherhood",
+            "categoria": "Action",
+            "rating": 9.8,
+            "season": "Spring",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 5,
+            "titulo": "Attack on Titan",
+            "categoria": "Action",
+            "rating": 9.2,
+            "season": "Fall",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 6,
+            "titulo": "Death Note",
+            "categoria": "Psychological",
+            "rating": 8.5,
+            "season": "Spring",
+            "tipo": "Seinen"
+        },
+        {
+            "id": 7,
+            "titulo": "My Hero Academia",
+            "categoria": "Action",
+            "rating": 9.1,
+            "season": "Summer",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 8,
+            "titulo": "Sword Art Online",
+            "categoria": "Adventure",
+            "rating": 7.8,
+            "season": "Fall",
+            "tipo": "Isekai"
+        },
+        {
+            "id": 9,
+            "titulo": "Demon Slayer",
+            "categoria": "Action",
+            "rating": 9.5,
+            "season": "Spring",
+            "tipo": "Shonen"
+        },
+        {
+            "id": 10,
+            "titulo": "Tokyo Ghoul",
+            "categoria": "Horror",
+            "rating": 8.3,
+            "season": "Fall",
+            "tipo": "Seinen"
+        }
+    ]
+}
